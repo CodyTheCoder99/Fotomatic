@@ -1,0 +1,1 @@
+Codecademy's 'Fotomatic' landing page project using HTML and CSS. I've included some responsive design to make it suitable for tablet and mobile use since all of my earlier projects do not include this. 
